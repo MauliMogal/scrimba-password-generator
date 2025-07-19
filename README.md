@@ -46,13 +46,7 @@ These were not required but added for going above and beyond:
 
 ---
 
-## 📂 Folder Structure
-
-scrimba-password-generator/
-├── index.html
-├── style.css
-└── script.js
-
+<pre> ## 📂 Folder Structure ``` scrimba-password-generator/ ├── index.html ├── style.css └── script.js ``` </pre>
 
 ---
 
