@@ -48,7 +48,7 @@ These were not required but added for going above and beyond:
 
 ## 📂 Folder Structure
 
-password-generator/
+scrimba-password-generator/
 ├── index.html
 ├── style.css
 └── script.js
@@ -58,21 +58,21 @@ password-generator/
 
 ## 📷 UI Preview
 
-![Password Generator UI](./screenshot.png) <!-- Optional: replace with your screenshot path -->
+![Password Generator UI](./screenshot.png) 
 
 ---
 
 ## 🔗 Live Demo
 
-[👉 View Live Project](https://your-deployment-url.com) <!-- Replace with your deployed link -->
+[👉 View Live Project](https://scrimba-passsword-generator.netlify.app/)
 
 ---
 
 ## 🧑‍💻 Author
 
-**Mauli M**  
-🚀 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💻 [Portfolio](https://your-portfolio-link.com)  
+**Mauli Mogal**  
+🚀 [LinkedIn](https://www.linkedin.com/in/maulimogal/)  
+💻 [Portfolio](https://www.maulimogal.com/)  
 
 ---
 
